@@ -1,4 +1,4 @@
-# playground
-Temporary repository to mess around with.
+# Playground
 
-Hello fellas!
+Temporary repository to mess around and try stuff.
+
